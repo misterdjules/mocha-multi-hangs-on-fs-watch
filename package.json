@@ -1,0 +1,16 @@
+{
+  "name": "mocha-multi-exit-issue",
+  "version": "0.0.0",
+  "description": "Repro for issue #fixme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Julien Gilli",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "mocha-multi": "~0.2.1",
+    "mocha": "~1.15.1",
+    "chai": "~1.8.1"
+  }
+}
